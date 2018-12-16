@@ -1,0 +1,28 @@
+{
+  "HEADER": {
+    "TAG": "IC",
+    "APP_VERSION": 64
+  },
+  "COMPONENTS": [
+    {
+      "ID": 10000000,
+      "INPUTS": [
+        {
+          "CONNECTOR_ID": 0,
+          "OTHER_COMPONENT": 10000001,
+          "OTHER_CONNECTOR_ID": 1
+        }
+      ],
+      "TYPE": "AND_GATE",
+      "X": 0.0,
+      "Y": 0.0
+    },
+    {
+      "ID": 10000001,
+      "INPUTS": [],
+      "TYPE": "AND_GATE",
+      "X": 0.0,
+      "Y": 0.0
+    }
+  ]
+}

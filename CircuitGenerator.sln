@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitGenerator", "CircuitGenerator\CircuitGenerator.csproj", "{BE66725D-7512-401F-AAE3-FACF3430F543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE66725D-7512-401F-AAE3-FACF3430F543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE66725D-7512-401F-AAE3-FACF3430F543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE66725D-7512-401F-AAE3-FACF3430F543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE66725D-7512-401F-AAE3-FACF3430F543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FFD8F66-DB87-429F-B79B-B21D1D3448FF}
+	EndGlobalSection
+EndGlobal
